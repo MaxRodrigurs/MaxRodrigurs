@@ -26,6 +26,7 @@
   📜 https://www.tiktok.com/@ron.alds
   </p>
 </details>
+<summary>Github Stats ⚡</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRodrigurs&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/MaxRodrigurs/github-readme-stats)
 
@@ -33,7 +34,6 @@
 
 ## 🧰 Linguagens e Ferramentas | Languages and Tools:
   <p align="center">
-  <summary>Github Stats ⚡</summary>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:5px">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" height="40" style="vertical-align:top; margin:5px">
