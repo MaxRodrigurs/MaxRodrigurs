@@ -34,8 +34,7 @@
 
 ## 🧰 Linguagens e Ferramentas | Languages and Tools:
   <p align="center">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:5px">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" height="40" style="vertical-align:top; margin:5px">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:5px">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" height="40" style="vertical-align:top; margin:5px">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Javascript" height="60" style="vertical-align:top; margin:5px">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" height="60" style="vertical-align:top; margin:5px">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="VS Code" height="60" style="vertical-align:top; margin:5px">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" height="60" style="vertical-align:top; margin:5px">
