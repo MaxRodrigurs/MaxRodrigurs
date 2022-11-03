@@ -26,7 +26,9 @@
   📜 https://www.tiktok.com/@ron.alds
   </p>
 </details>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRodrigurs&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/MaxRodrigurs/github-readme-stats)
+
 [![MaxRodrigurs GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxRodrigurs&include_all_commits=true&count_private=true&theme=vue&show_icons=true&locale=pt-Br)](https://github.com/MaxRodrigurs/github-readme-stats)
 
 ## 🧰 Linguagens e Ferramentas | Languages and Tools:
