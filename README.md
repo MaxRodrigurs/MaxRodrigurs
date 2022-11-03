@@ -17,8 +17,8 @@ Mais:
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoskibinski&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/ronaldoskibinski/github-readme-stats)
-[![RonaldoSkibinski GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoskibinski&include_all_commits=true&count_private=true&theme=vue&show_icons=true&locale=pt-Br)](https://github.com/ronaldoskibinski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRodrigurs&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/MaxRodrigurs/github-readme-stats)
+[![MaxRodrigurs GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxRodrigurs&include_all_commits=true&count_private=true&theme=vue&show_icons=true&locale=pt-Br)](https://github.com/MaxRodrigurs/github-readme-stats)
 
 ## 🧰 Linguagens e Ferramentas | Languages and Tools:
   <p align="center">
@@ -29,5 +29,3 @@ Mais:
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="VStudio" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=tandpfun&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)
