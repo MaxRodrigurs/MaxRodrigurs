@@ -17,7 +17,7 @@
   </p>
 </details>
 <details>
-<summary>EN About me:</summary>
+<summary>EN About me</summary>
   <p>
   I've always liked technology and find myself looking for new things all the time.
   I've already developed basic Py projects, some games and some simple apps and I've always dedicated myself to bring something different to the project, something new and that would bring some of my characteristics!
