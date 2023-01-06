@@ -6,7 +6,7 @@
   <summary>BR Sobre mim </summary>
   <p>
   Sempre gostei de tecnologia e me pego procurando sobre coisas novas o tempo todo. 
-  Desenvolvia projetinhos basico de Py, alguns joguinhos e alguns apps simples e sempre me dedicando para trazer algo diferente para o projeto, algo novo e que trouxesse alguma caracteristica minha!
+  Já desenvolvi projetinhos basico de Py, alguns joguinhos e alguns apps simples e sempre me dedicando para trazer algo diferente para o projeto, algo novo e que trouxesse alguma caracteristica minha!
   Me adapto facilmente e sempre tento aprender algo novo em meio a correria.
   Valorizo muito a transparência, a sinceridade e a honestidade, seja para assumir responsabilidades ou problemas, seja para assumir limitações ou dificuldades.
   Sou extrovertido e muito sociavel, faço amigos facilmente..  
@@ -20,10 +20,10 @@
 <summary>EN About me:</summary>
   <p>
   I've always liked technology and find myself looking for new things all the time.
-  I developed basic Py projects, some games and some simple apps and always dedicated myself to bring something different to the project, something new and that brought some of my characteristics!
+  I've already developed basic Py projects, some games and some simple apps and I've always dedicated myself to bring something different to the project, something new and that would bring some of my characteristics!
   I adapt easily and always try to learn something new amidst the rush.
   I highly value transparency, sincerity and honesty, whether to assume responsibilities or problems, or to assume limitations or difficulties.
-  I am outgoing and very sociable, I make friends easily.
+  I am outgoing and very sociable, and i make friends easily... i hope.
 
   More:
   📫 maxrodrigurs@outlook.com
