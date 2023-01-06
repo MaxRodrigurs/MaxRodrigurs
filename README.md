@@ -30,7 +30,6 @@
   📜 linkedin.com/in/anaximandrodrigurs/
   </p>
 </details>
-<summary>Github Stats ⚡</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxRodrigurs&langs_count=8&layout=compact&theme=vue&locale=pt-Br)](https://github.com/MaxRodrigurs/github-readme-stats)
 
