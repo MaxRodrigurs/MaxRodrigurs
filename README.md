@@ -1,3 +1,7 @@
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaxRodrigurs)](https://github.com/maxrodrigurs)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaximandrodrigurs//)](https://www.linkedin.com/in/ronaldo-skibinski-982)
+![](https://visitor-badge.laobi.icu/badge?page_id=MaxRodrigurs.MaxRodrigurs)
+
 <details>
   <summary>BR Sobre mim </summary>
   <p>
@@ -22,8 +26,8 @@
   I am outgoing and very sociable, I make friends easily.
 
   More:
-  📫 ronaldoskibinski@gmail.com
-  📜 https://www.tiktok.com/@ron.alds
+  📫 maxrodrigurs@outlook.com
+  📜 linkedin.com/in/anaximandrodrigurs/
   </p>
 </details>
 <summary>Github Stats ⚡</summary>
