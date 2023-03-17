@@ -1,9 +1,11 @@
 <a href="" target="_blank"><img align="center" src="/imagem.png"/><a/>
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaxRodrigurs)](https://github.com/maxrodrigurs)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaximandrodrigurs//)](https://www.linkedin.com/in/anaximandrodrigurs//)
-![](https://visitor-badge.laobi.icu/badge?page_id=MaxRodrigurs.MaxRodrigurs//)
-
+  
+<p align="center"> 
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaxRodrigurs)](https://github.com/maxrodrigurs)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaximandrodrigurs//)](https://www.linkedin.com/in/anaximandrodrigurs//)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=MaxRodrigurs.MaxRodrigurs//)
+</p>
+  
 <details>
   <summary>BR Sobre mim </summary>
   <p>
