@@ -1,9 +1,9 @@
-<a href="" target="_blank"><img align="center" src="/imagem.png"/><a/>
-  
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaxRodrigurs)](https://github.com/maxrodrigurs)
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaximandrodrigurs//)](https://www.linkedin.com/in/anaximandrodrigurs//)
-  ![](https://visitor-badge.laobi.icu/badge?page_id=MaxRodrigurs.MaxRodrigurs//)
-  
+<a href="" target="_blank"><img align="center" src="/imagem.jpg"/><a/>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MaxRodrigurs)](https://github.com/maxrodrigurs)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaximandrodrigurs//)](https://www.linkedin.com/in/anaximandrodrigurs//)
+![](https://visitor-badge.laobi.icu/badge?page_id=MaxRodrigurs.MaxRodrigurs//)
+
 <details>
   <summary>BR Sobre mim </summary>
   <p>
@@ -11,11 +11,12 @@
   Já desenvolvi projetos basico de Py, alguns joguinhos e alguns apps simples, mas sempre me dedicando para trazer algo diferente para o projeto, algo novo e que trouxesse alguma caracteristica minha!
   Me adapto facilmente e sempre tento aprender algo em meio a correria.
   Valorizo muito a transparência, a sinceridade e a honestidade, seja para assumir responsabilidades ou problemas.
-  Sou extrovertido e muito sociavel, faço amigos facilmente... eu acho.   
+  Sou extrovertido e muito sociavel, faço amigos facilmente... eu acho.
 
-  Mais:
-  📫 maxrodrigurs@outlook.com
-  📜 linkedin.com/in/anaximandrodrigurs/
+Mais:
+📫 maxrodrigurs@outlook.com
+📜 linkedin.com/in/anaximandrodrigurs/
+
   </p>
 </details>
 
@@ -28,13 +29,15 @@
   I highly value transparency, sincerity and honesty, whether to assume responsibilities or problems, or to assume limitations or difficulties.
   I am outgoing and very sociable, and i make friends easily... i hope.
 
-  More:
-  📫 maxrodrigurs@outlook.com
-  📜 linkedin.com/in/anaximandrodrigurs/
+More:
+📫 maxrodrigurs@outlook.com
+📜 linkedin.com/in/anaximandrodrigurs/
+
   </p>
 </details>
 
 ## 🧰 Linguagens e Ferramentas | Languages and Tools:
+
   <p align="center">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Light.svg" alt="React" height="50" style="vertical-align:top; margin:5px">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Light.svg" alt="TailwindCSS" height="50" style="vertical-align:top; margin:5px">
