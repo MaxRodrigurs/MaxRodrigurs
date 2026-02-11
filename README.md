@@ -2,11 +2,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxrodrigurs//)](https://www.linkedin.com/in/maxrodrigurs//)
 
-<details>
   <p>
   Just an enthusiastic guy, who likes to sketches and code my crazy ideias, learn from it and enjoy the process.
   </p>
-</details>
 
 ## Tools that I use most often
 
