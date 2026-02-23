@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maxrodrigurs//)](https://www.linkedin.com/in/maxrodrigurs//)
 
   <p>
-  Just an enthusiastic guy who likes to sketch and code my crazy ideas, learn from them, and enjoy the process.
+  I'm an Illustrator, Developer and Athlete. Passionate about technology, skateboarding, animations, movies and games.
   </p>
 
 ## Tools that I use most often
